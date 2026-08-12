@@ -37,27 +37,6 @@ The generated pages are designed to:
 - Practice activities are rewritten as guided, read-only content.
 - Quiz blocks may appear only when the generator can produce a conservative, high-confidence question from the source material.
 
-## Regenerating the HTML
-
-The generator is a standalone Node.js script with no external package install step.
-
-Generate one course:
-
-```powershell
-node scripts/generate-accessible-course.js "course examples\MATLAB\MATLAB Onramp.json" "generated\MATLAB Onramp.html"
-```
-
-Generate all supported courses in the sample tree:
-
-```powershell
-node scripts/generate-accessible-course.js "course examples" "generated"
-```
-
-Generate one course with explicit Brightcove settings:
-
-```powershell
-node scripts/generate-accessible-course.js "course examples\MATLAB\MATLAB Onramp.json" "generated\MATLAB Onramp.html" --brightcove-account 123456789001 --brightcove-player default
-```
 
 ## Generator behavior
 
