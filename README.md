@@ -6,7 +6,7 @@ The generated pages are intended to provide a simpler, more accessible reading e
 
 ## What is in this repo
 
- published alternate-format HTML pages and a simple `index.html` for browsing them
+ published alternate-format HTML pages
 
 ## Viewing the alternate formats
 
