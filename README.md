@@ -6,10 +6,7 @@ The generated pages are intended to provide a simpler, more accessible reading e
 
 ## What is in this repo
 
-- `generated/`: published alternate-format HTML pages and a simple `index.html` for browsing them
-- `course examples/`: sample exported course inputs used to generate the pages
-- `scripts/generate-accessible-course.js`: standalone Node.js generator
-- `images/`: optional header and decorative images used by some generated pages
+ published alternate-format HTML pages and a simple `index.html` for browsing them
 
 ## Viewing the alternate formats
 
@@ -20,10 +17,7 @@ If you are browsing the repo locally, open `generated/index.html` in a browser a
 Current generated examples include:
 
 - MATLAB Onramp
-- Optimization Onramp
-- Create Animated Plots with MATLAB
-- Introduction to Finite Element Analysis with MATLAB
-- Introduction to Solving Ordinary Differential Equations
+- Simulink Onramp
 
 ## Accessibility approach
 
